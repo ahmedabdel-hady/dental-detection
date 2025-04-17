@@ -1,2 +1,2 @@
 streamlit==1.25.0  # Streamlit for building the web app
-Pillow==10.3.0    # Pillow for image processing
+Pillow  # Pillow for image processing
